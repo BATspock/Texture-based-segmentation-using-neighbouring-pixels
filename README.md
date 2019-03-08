@@ -3,3 +3,5 @@
 Add neigbhouring pixel information using a K x K kernel.
 
 The code is still work under progress
+
+* out of memory k-means processing
